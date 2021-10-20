@@ -1,0 +1,1 @@
+let - deyisheni tanimlamaq uchun (let dolarDun = 9.30) 
